@@ -24,9 +24,9 @@ Aplikasi ini merupakan aplikasi hitung diskon.
 
 > ✨ *Berikut adalah beberapa tampilan dari aplikasi Hitung Diskon:* ✨
 
-![Cover Page](screenshots/tampilan utama.png.png)  
+![Cover Page](screenshots/tampilan_utama.png)  
 *Tampilan halaman saat membuka aplikasi*
 
-![Home Page - All](screenshots/tampilan setelah diskon.png.png)  
+![Home Page - All](screenshots/tampilan_diskon.png)  
 *Tampilan halaman utama dengan perintah memasukan harga beserta diskonya dan tampilan berubah dan hasilnya akan tampil*
 
