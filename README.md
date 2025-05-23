@@ -1,16 +1,32 @@
-# hitung_diskon
+# 🕰️ Watch Order App - UTS Pemrograman Mobile
 
-A new Flutter project.
+## 👤 Informasi Mahasiswa
 
-## Getting Started
+- *Nama*: [Ryan Rambu Rabbani]
+- *NIM*: [2022804178]
+- *Prodi*: [Sistem Informasi 6A (pagi)]
+- *Semester*: [6]
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📝 Nama Aplikasi
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Aplikasi Flutter ini dibuat sebagai Ujian Tengah Semester (UTS) untuk mata
+kuliah Mobile Programming.
+Aplikasi ini merupakan aplikasi hitung diskon.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📝 Deskripsi  Aplikasi
+
+> Aplikasi hitung diskon ini, dapat membantu untuk mengecek harga diskon dan berapa persen diskon yang akan didapat oleh pembeli agar tidak bingung ketika berbelanja.*.
+> mungkin aplikasi ini terlihat simple, namun sangat berguna bagi yang membutuhkan, apalagi bagi yang kurang paham tentang apa itu diskon.
+
+---## 📸 Screenshot Aplikasi
+
+> ✨ *Berikut adalah beberapa tampilan dari aplikasi Hitung Diskon:* ✨
+
+![Cover Page](screenshots/tampilan utama.png.png)  
+*Tampilan halaman saat membuka aplikasi*
+
+![Home Page - All](screenshots/tampilan setelah diskon.png.png)  
+*Tampilan halaman utama dengan perintah memasukan harga beserta diskonya dan tampilan berubah dan hasilnya akan tampil*
+
