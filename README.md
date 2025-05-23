@@ -1,4 +1,4 @@
-# 🕰️ Watch Order App - UTS Pemrograman Mobile
+# Hitung Diskon  - UTS Pemrograman Mobile
 
 ## 👤 Informasi Mahasiswa
 
